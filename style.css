@@ -22,7 +22,6 @@ body,
   background: rgba(255, 255, 255, 0.9);
   box-shadow: none;
   box-sizing: border-box;
-  display: none
 }
 
 #histContainer {
